@@ -1,5 +1,15 @@
 {
   "projects": {
-    "default": "revenuecat-1567550268644"
+    "default": "beer-buddy-6323b"
+  },
+  "targets": {},
+  "etags": {
+    "beer-buddy-6323b": {
+      "extensionInstances": {
+        "firestore-algolia-search": "13dcb573a5bdaf5eea46d0e3cf1a1268fe3ebd3c49e2056162c792698755511d",
+        "firestore-revenuecat-purchases": "fa4012ee39882fdb4c868a3cc7aa3cd14b1b0a27429642e5d8f6624c056c026b",
+        "storage-resize-images": "af811b3563e5d2e452e96d50b7118a8ebc4c07b948b80c2776d741f0ad2fc225"
+      }
+    }
   }
 }

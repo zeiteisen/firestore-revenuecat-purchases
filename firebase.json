@@ -24,5 +24,8 @@
       "npm --prefix \"$RESOURCE_DIR\" run build"
     ],
     "source": "functions"
+  },
+  "extensions": {
+    "firestore-revenuecat-purchases": "."
   }
 }
